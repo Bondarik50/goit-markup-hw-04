@@ -112,7 +112,6 @@ address {
 .header-link:focus,
 .link-current {
   color: var(--accent-color);
-  position: relative;
 }
 
 .header {
