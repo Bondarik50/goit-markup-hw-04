@@ -135,21 +135,10 @@ address {
 .header-item .link:focus {
   color: var(--accent-color);
 }
-.link-letter {
-  display: flex;
-  align-items: center;
-}
 
 .contact-icon {
   margin-right: 10px;
   fill: currentColor;
-}
-
-.contact-phone {
-  margin-right: 10px;
-  fill: currentColor;
-  width: 10px;
-  height: 16px;
 }
 
 .link-letter:hover,
